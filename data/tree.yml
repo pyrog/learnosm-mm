@@ -1,4 +1,35 @@
 ---
+assets:
+  javascripts: {}
+  stylesheets: {}
+en:
+  beginner:
+    contents.md: /en/beginner/contents.md
+    editing-with-josm.md: /en/beginner/editing-with-josm.md
+    gps.md: /en/beginner/gps.md
+    index.md: /en/beginner/index.md
+    introduction.md: /en/beginner/introduction.md
+    more-about-josm.md: /en/beginner/more-about-josm.md
+    moving-forward.md: /en/beginner/moving-forward.md
+    papers.md: /en/beginner/papers.md
+    start-id.md: /en/beginner/start-id.md
+    start-josm.md: /en/beginner/start-josm.md
+    start-osm.md: /en/beginner/start-osm.md
+  editing:
+    id-editor.md: /en/editing/id-editor.md
+    index.md: /en/editing/index.md
+fr:
+  beginner:
+    0-index.md: /fr/beginner/0-index.md
+    1-introduction.md: /fr/beginner/1-introduction.md
+    2-start-osm.md: /fr/beginner/2-start-osm.md
+    3-start-josm.md: /fr/beginner/3-start-josm.md
+    4-josm-plugins.md: /fr/beginner/4-josm-plugins.md
+    5-gps.md: /fr/beginner/5-gps.md
+    6-papers.md: /fr/beginner/6-papers.md
+    7-editing-with-josm.md: /fr/beginner/7-editing-with-josm.md
+    8-aerial-imagery-considerations.md: /fr/beginner/8-aerial-imagery-considerations.md
+    9-moving-forward.md: /fr/beginner/9-moving-forward.md
+  intermediate:
+    edit-in-detail-osm.md: /fr/intermediate/edit-in-detail-osm.md
 index.md: /index.md
-1-first-page.md: /1-first-page.md
-2-second-page.md: /2-second-page.md
