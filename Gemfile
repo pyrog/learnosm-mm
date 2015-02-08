@@ -21,3 +21,5 @@ end
 platforms :mri_18 do
   gem "ruby18_source_location"
 end
+
+gem 'middleman-toc', :github => 'middleman-toc/middleman-toc', :branch => 'master'

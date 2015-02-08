@@ -1,3 +1,11 @@
+GIT
+  remote: git://github.com/middleman-toc/middleman-toc.git
+  revision: 42728b84408adc0057042d4369fad68beb6d949c
+  branch: master
+  specs:
+    middleman-toc (0.0.2)
+      titleize
+
 GEM
   remote: http://rubygems.org/
   specs:
@@ -135,6 +143,7 @@ DEPENDENCIES
   middleman-livereload (~> 3.1.0)
   middleman-navtree
   middleman-syntax
+  middleman-toc!
   pry
   redcarpet
   ruby18_source_location
